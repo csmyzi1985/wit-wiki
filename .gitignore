@@ -19,6 +19,7 @@ extract_hua_yu_hua.py
 log.md
 audit_wiki.py
 sync_to_feishu.py
+synthesis/sync_state.json
 
 # 系统文件
 .DS_Store
