@@ -5,7 +5,7 @@ date: 2022
 industry: 房地产
 client: "中国电建地产"
 methodology: [超级符号理论, 品牌资产论]
-keywords: [新中式, IP打造, 宋风, 品牌资产, 文化母体]
+keywords: [新中式, [个人IP], 宋风, 品牌资产, 文化母体]
 decision_logic: "放弃寻找单一宋朝符号，转而从产品（宋式美学）和客群（精神富足的中坚力量）出发，锁定宋朝文人士大夫作为IP原型，建立品牌与现代生活的情感连接。"
 source: "如何在千年后为宋的风雅寻找一个理想代言_"
 source_origin: wit

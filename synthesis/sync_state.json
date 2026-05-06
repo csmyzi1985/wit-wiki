@@ -1,15 +1,1375 @@
 {
   "folders": {
-    "WIT知识库": "dry-run-WIT知识库",
-    "WIT知识库/华与华参考": "dry-run-WIT知识库/华与华参考",
-    "WIT知识库/华与华参考/方法论": "dry-run-WIT知识库/华与华参考/方法论",
-    "WIT知识库/华与华参考/模型": "dry-run-WIT知识库/华与华参考/模型",
-    "WIT知识库/华与华参考/演讲": "dry-run-WIT知识库/华与华参考/演讲",
-    "WIT知识库/方法论": "dry-run-WIT知识库/方法论",
-    "WIT知识库/案例": "dry-run-WIT知识库/案例",
-    "WIT知识库/竞品参考": "dry-run-WIT知识库/竞品参考",
-    "WIT知识库/行业洞察": "dry-run-WIT知识库/行业洞察"
+    "华与华参考": "N37kfBSEMl7BYsdRwDtcjwuAnEh",
+    "华与华参考/方法论": "HnAwfAhOCldwDvd9ZX5cwLOUnHc",
+    "华与华参考/模型": "TZn8f4H1Glu76tdLFkhcbJ35n3b",
+    "华与华参考/演讲": "PfCNf9PBrlG5tKdhq78cAEmynVe",
+    "方法论": "Vaxtf2zS3lnaM8dcU01cwFftniB",
+    "案例": "NEcmfuPQ7l1Egld2cm4cbQYpnod",
+    "竞品参考": "H3HLfbg9plErCRdV3ChcHQeFnze",
+    "行业洞察": "RGEMfF7eUlojv0dKqLlciUgMnWd"
   },
-  "files": {},
-  "last_sync": "2026-04-28T20:43:50.238374"
+  "files": {
+    "cases/1.2万拍三条王家卫风视频-乙方的血泪与甲方的善变.md": {
+      "hash": "432bf20f39c06cb4844ce45384b28eae",
+      "token": "UKFDdTWOlo6GeCxLoyych5nwndm"
+    },
+    "cases/100期知识点海报-重复的力量与品牌资产沉淀.md": {
+      "hash": "576148e86e8e6964899989ac5ae76eff",
+      "token": "TgQ6dOoS8oTxICxtoDAcnrILndc"
+    },
+    "cases/12位创始人总结-社交媒体营销的11个致命错误.md": {
+      "hash": "4b36d9540ad3c4f6cfb25fe42e179c6c",
+      "token": "Q1dUdiFwmoG7x5xHjbec9cu4nkg"
+    },
+    "cases/2016保利西安-用“东西”二字撬动古城文化-3天完成5000万销售.md": {
+      "hash": "38ae698c90ffb544971ab90b1f38000e",
+      "token": "QPXmdMbNUoJaSSxmR44cID6Unch"
+    },
+    "cases/2021-勇气第一-——智讯互动新年内部信.md": {
+      "hash": "fdca4c80ce8cd317fee31b2a9b44d685",
+      "token": "ZaHidcl3aoyKEXxviJtcM8ypn9e"
+    },
+    "cases/60天1.58亿-万科如何用10万营销费撬动全民经纪人.md": {
+      "hash": "ea173d6bd15f56f0be13827332e5e88b",
+      "token": "HwrMdsWDko0dj6x85WWcddbCnFd"
+    },
+    "cases/B2B企业如何做品牌-绿城管理的开源革命与知识品牌之路.md": {
+      "hash": "65c3c35a43e0f564648b18c16027043d",
+      "token": "ColUd5ZD7ov2gJxMFhKchM9fnjg"
+    },
+    "cases/IP-动画-故事板-智讯映画用五大视觉能力为碎片化时代品牌制造传播亮点.md": {
+      "hash": "35cfd1e2e98d9b06f31356d27ccb2c7a",
+      "token": "EKTDdFYbYoaiVcxb70ac2KMnnTd"
+    },
+    "cases/“偷来”的时间-一场全民宅家影像记录如何唤起集体情感共鸣.md": {
+      "hash": "fdf36e66418a94aad95261771f874a35",
+      "token": "AHTfd2rW8oypFlxeAbmcZo01nkf"
+    },
+    "cases/“灵魂深处”文青语录爆火-一个伪文青的聊天截图如何成为社交媒体狂欢素材.md": {
+      "hash": "69caf64717c9289007a31f81aa6d8283",
+      "token": "IgTwdV0OYoC3IsxKCwDcfUu6nSh"
+    },
+    "cases/《这里-是十堰》城市基因驱动的品牌传播案例.md": {
+      "hash": "943d3b84195acaf846bd76cedb06cf7d",
+      "token": "UYradyxC4oyAYvxENWicn3VXn4e"
+    },
+    "cases/《高新1分钟》咸阳高新区宣传片案例.md": {
+      "hash": "a4d5dbc01e99f434a01dbbff32f19a68",
+      "token": "UPrDdkDwqoPjCYxEEWrcOXhOnwg"
+    },
+    "cases/一场发布会如何将品牌主张嫁接在新中国70周年叙事上.md": {
+      "hash": "b6fc151223b69d636b311185a24d8d88",
+      "token": "U2m4dJiGhooF2YxVBXic3dctnHb"
+    },
+    "cases/一封家书引爆31万观看-方圆如何用东方归属重构品牌话语权.md": {
+      "hash": "9c2decdfcb25e7834ec7608e5bd0e495",
+      "token": "TdHKdeVNQoycfAxIjupcq8PhnZd"
+    },
+    "cases/一档公众号栏目如何用4年沉淀为品牌资产.md": {
+      "hash": "467ecc1ad005c71875f53b4381e55268",
+      "token": "ZPdBdaOu7oj8nPxdpgWcG3D8nqf"
+    },
+    "cases/一蔬换一书-用同音梗撬动13000本书-解决农户滞销与山区缺书双重痛点.md": {
+      "hash": "f1e02d769415548fbefcddbdf13f39e0",
+      "token": "Il1Qdz0VvopaAkxvXtlcmeginPa"
+    },
+    "cases/万科12小时微信卖房-首个打通微信支付的地产微商城诞生.md": {
+      "hash": "e4cc2840ff89890f1e6649a23bf003ec",
+      "token": "TBZGdP3KOoILemxv1JjcysWInIb"
+    },
+    "cases/万科“一根筋”-用硬核喜剧与钢筋海报链接Z世代.md": {
+      "hash": "cc9f9f8a3fb1938a8c18b089cc9bc122",
+      "token": "Kgl3dmMeZoNSRRxtNZUca6PAntg"
+    },
+    "cases/万科“一根筋”品牌年轻化传播西安站.md": {
+      "hash": "6c0192351e6c5bac0d2ed0b64fba99fb",
+      "token": "FPEudvelOoZL1dxloAZcKFBxnHg"
+    },
+    "cases/万科「就是一根筋」-用反碎片杠铃策略击穿Z世代圈层.md": {
+      "hash": "18095a9b3bcb9adb3a94ff2ae45cc9ea",
+      "token": "WauNdaO9foV99ixHtaKc6KOPnkc"
+    },
+    "cases/万科与大众点评基于LBS的“点万计划”合作案例.md": {
+      "hash": "612fe07a448598572460ca303d21d219",
+      "token": "ZI57d4yUMoHmMHxkT7JcA1dJnwf"
+    },
+    "cases/万科佛山双十一-用嘻哈“不剁手财神”IP对抗市场寒冬.md": {
+      "hash": "4526d9c58d2954ef38b5cac6df121b92",
+      "token": "CvGGd72SHolD4axQcyfcAcITntg"
+    },
+    "cases/万科佛山品牌IP“佛小万”诞生记.md": {
+      "hash": "4b3dd2f3eaed19ba710ed8b276828a75",
+      "token": "IyuydIsJCosLr9x3pvLcsEXtnAf"
+    },
+    "cases/万科城市季-用“城市烟火地图”整合全国分散资源.md": {
+      "hash": "a38c324f380398bea4d88ba420138d78",
+      "token": "IdrKdx6pYoU45PxACx4cCOypnAh"
+    },
+    "cases/万科多地温情营销-用“做事”代替“借势”-以具体行动与用户共克时艰.md": {
+      "hash": "729cf5b8632435ad709288c237900fc3",
+      "token": "MicldA7uHoAtJGxDWM8coiFdnif"
+    },
+    "cases/万科如何将“双碳”硬概念软着陆给C端用户.md": {
+      "hash": "82ea3ecc6d0419d6df83675048ae3d06",
+      "token": "X52ldYKExoo1zJxa73mckJIznmh"
+    },
+    "cases/万科扬州互动式产品手册《万玩家》.md": {
+      "hash": "5e498fca5209cec96e795a7d2169155d",
+      "token": "P7pXdEpLno5vlUxoRegctYBPnlI"
+    },
+    "cases/万科杭州“与未来一起杭州”-用CG城市科幻片兼顾传播声量与品牌业务露出.md": {
+      "hash": "989074652030776b75f332245339d1ab",
+      "token": "Dn9Xd0W5CotKvyx69Zocq88Nngc"
+    },
+    "cases/万科杭州如何用一场“对撞会”将抽象的“超级底盘”概念植入大众心智.md": {
+      "hash": "58335422fbdfba07f7a9853631ab7291",
+      "token": "CWx0dosyWorRHcxuxoQcQrDtnzh"
+    },
+    "cases/万科杭州用“兴计划”绑定城市发展-从符号到交付构建品牌资产.md": {
+      "hash": "e2f7fac7f9f4c86713e614c16488d8de",
+      "token": "VVl1dvVdSojtasxJIMOcaPGznHb"
+    },
+    "cases/万科用“刚刚好”撬动广州客-广佛链接式营销实现60万传播.md": {
+      "hash": "982426f7d06cd4c49f0a1f853b0fee88",
+      "token": "U4uPdZXS8oTXolxr5pzcydEZnFb"
+    },
+    "cases/万科跨界做教育-如何将75后业主转化为素质教育用户.md": {
+      "hash": "1d18efeb58122a614cbd71027efc1706",
+      "token": "So9kdjPk1o3588xUWEmcKZ7Snee"
+    },
+    "cases/万科陪伴季-将服务IP沉淀为超级品牌资产的长期主义实践.md": {
+      "hash": "f9e74bb3ef9c42ab70fd6cca7fccbae1",
+      "token": "Niltd0MthocHBaxxaxKc66dYnRb"
+    },
+    "cases/三个地产IP案例-如何用袋鼠爸爸-剁手财神-神算子撬动传播.md": {
+      "hash": "5dc47830ff5b6623b480490f9ee8f9ab",
+      "token": "PhXzdzuymohPddxPIgqcSGylnRb"
+    },
+    "cases/三四线城市商业地产-从产业链价值重构到三类客户精准营销.md": {
+      "hash": "d945163be977ecbf05121843f4543cd7",
+      "token": "BEf1dV1l2oPjSqxevpncHzmyn4g"
+    },
+    "cases/上海万科×智讯互动-10位艺术家用“牛”主题公共艺术展-为城市注入信心.md": {
+      "hash": "52d33d4919986e27e43e436382bc835d",
+      "token": "VST9di5YKolCO8x3nFecT7dknnc"
+    },
+    "cases/上海万科“好房子住着爱”-回归产品本质-用品牌资产对抗碎片化传播.md": {
+      "hash": "63f9e5ae69381f19d9169cc2de264f5f",
+      "token": "XKOpdaTU1oYQhdxEI0QcNkxOnUb"
+    },
+    "cases/上海万科“谢谢侬”口碑公关案例.md": {
+      "hash": "636ef728fb4af896fab2705fb7e226dc",
+      "token": "MiTZdcBlPoUGxcxVDHvc360hnZf"
+    },
+    "cases/上海万科带客通感恩购房节案例.md": {
+      "hash": "dd36f769200f6566104fbb08b064e69c",
+      "token": "Y6I7dUV0WoohnZx85zzcuqT2nXd"
+    },
+    "cases/上海万科老带新营销案例-72小时极速成交.md": {
+      "hash": "b5afc2e56de1a497acf1500a810f86fc",
+      "token": "RlQYdgR5BoUTnbxTVvlckVWfngc"
+    },
+    "cases/东原地产原聚场-用一支“最不像地产广告的地产广告”引爆200万播放.md": {
+      "hash": "197eb14865f6fffc2132cbc77877e44a",
+      "token": "OcaIdGy1rolBYNx2xzYc35v2nag"
+    },
+    "cases/东原地产原聚场1周年品牌传播案例.md": {
+      "hash": "9ae956b91bc811c5094c9dc5c8a5b81a",
+      "token": "Xh9vdyBddoeihxxXJpXceJVfnYg"
+    },
+    "cases/中南置地健康TED社区动画视频案例.md": {
+      "hash": "d309db15328aac9ae568eac161d32c00",
+      "token": "GSZNd5KoToklFixyTJ0co7AAnPe"
+    },
+    "cases/中国有600多个城市-你的城市凭什么被记住.md": {
+      "hash": "02da89e5c9d1b23ec6cc455e39f02fea",
+      "token": "XexadCMvooMN3VxlMZDcwKdbnof"
+    },
+    "cases/为宋风雅寻找代言-如何用IP激活新中式产品.md": {
+      "hash": "924ce16b2a1ad21b1ec78960211e1699",
+      "token": "HoVWdDMBHoOx60x5wqIcu7EUnHc"
+    },
+    "cases/互动圈的至高地位-交流互动.md": {
+      "hash": "5382835e86fec155380bbb00b0b6a09a",
+      "token": "Kd6NdYzF1oQXM6xo7YecD0sSnag"
+    },
+    "cases/从1年到10年-龙民节如何用“反碎片”方法-将业主节日沉淀为品牌资产.md": {
+      "hash": "74642d0c31331a4d6eea74c59b872331",
+      "token": "Ouz0dCgYVolOfkxQPbRcBseBnFg"
+    },
+    "cases/从人到众-咸阳高新区如何将无形服务沉淀为可感知的创业品牌.md": {
+      "hash": "6369b561d20a8e11e179f5c736c736c5",
+      "token": "HBWTdSnxUoylCCxa3Omc5sFCn5i"
+    },
+    "cases/从企业品牌到社会品牌-绿城管理-万科产办的B2B品牌建设实践.md": {
+      "hash": "574bd5e7ec3a9dec5b8a1bf9ee88ae19",
+      "token": "ITwQdBH1VoFbCPxIWbccxHVQnLd"
+    },
+    "cases/从企业文化基因到盲盒潮流-新城控股如何用“骆驼精神”IP突围.md": {
+      "hash": "e4a9334e10955107c149788834d71be6",
+      "token": "BgFbdtYC6oxItyxtAmpcvRe9ntH"
+    },
+    "cases/从强卖“装修包”到“美好生活定制服务”-融创臻爱家如何将附加业务逆袭为增值服务.md": {
+      "hash": "f8c828d0a9afa63356d5768ee8c4075c",
+      "token": "WaGEdSkrsoc8HPxfXnsc59FknBC"
+    },
+    "cases/从未如此热爱生活 城市公益影像展.md": {
+      "hash": "485122c77b4cdc0fede654d1e8a02285",
+      "token": "LhjEdHJtro2PfTxtAy7cJDOgnXc"
+    },
+    "cases/借势《虎妈猫爸》玩转剩余房源营销案例.md": {
+      "hash": "cb9867886ef7a552e39f63da4a2c0b2c",
+      "token": "Lkt2dKKgOokmbex8L92cZ8qPnze"
+    },
+    "cases/借势明星与城市自豪感-西安华润置地如何用“奋斗者”主题撬动千万级传播.md": {
+      "hash": "4005bc5ec239043eba953766c4be82b5",
+      "token": "E5dDdCHf6oCHuqxInAycowk1nfh"
+    },
+    "cases/借势蜘蛛侠与巨型蛋糕-沈阳五矿地产如何用新媒体打破央企刻板印象.md": {
+      "hash": "327cccb6d23e562e54e164844ef834dd",
+      "token": "T7QsdcZOioIRYmxTEcScvIwbnpg"
+    },
+    "cases/八十八倉月饼-用立体画和纹样系统-让礼品包装同时承载丰收叙事与品牌资产.md": {
+      "hash": "48c54f47fa20db3f43821dd34327eeb3",
+      "token": "MyAwdyXIWoQGSIxMf6LcEXEUnIc"
+    },
+    "cases/华侨城西安-一场180天文旅节如何用爆破式推广穿透城市毛细血管.md": {
+      "hash": "7df8022fea22c99408a85bcfa5d5e76a",
+      "token": "AjtOdLnIVo1oyoxi6nIcUE9Jnlc"
+    },
+    "cases/华润置地东北大区-用“东北虎”原型打造双虎IP-借势生肖年完成品牌资产沉淀.md": {
+      "hash": "97a297d457e243dbe8153b21b66e550e",
+      "token": "Db04d4AF2oojrExizyqcQGStn3c"
+    },
+    "cases/华润置地广西15年-从造房子到造城市的品牌资产沉淀.md": {
+      "hash": "2e98587f75a067a1498584dd7c0b8efa",
+      "token": "DvglduaIRoYQeYx3k3dcbF4BnnZ"
+    },
+    "cases/南京万科光年项目-如何用一场沉浸式发布会和跨界体验-让全新产品3盘首开售罄.md": {
+      "hash": "91cb6d1d0c0554b809ea6cec05eb0ccf",
+      "token": "FKs5dr3yKo9wPjxB8ctccwqInOe"
+    },
+    "cases/南京万科商办项目-用“门户资产”一句话穿透不确定市场.md": {
+      "hash": "42d8a22ccd1aa960f2dfc75de00fa5ea",
+      "token": "E5kMdtomMol8HRxoeBjcPVpYnud"
+    },
+    "cases/南京万科用城市色彩TVC破圈-6期栏目视频吸引近6.5万人次观看.md": {
+      "hash": "5b338da6c01fb4f96dd880861d162756",
+      "token": "SBfbd6ihvoaqJVx7sdscGSdUnte"
+    },
+    "cases/南京万科用草地营销-在楼市下行期为年轻人创造城市出逃体验.md": {
+      "hash": "f089cb1ba462138208509b8f8784fc1f",
+      "token": "Ewindb8KPoWo9oxaw6JcOoVZnod"
+    },
+    "cases/双11节点营销案例复盘.md": {
+      "hash": "cf0e61fe9a3e3e851d20f9c9c179703d",
+      "token": "J0O7dA9csooJK4x9DoZcbLGpnvR"
+    },
+    "cases/反碎片-用杠铃策略对抗不确定性的品牌方法论.md": {
+      "hash": "ee309591a4975962a86a08031a671944",
+      "token": "JAYYd4qStooU1jxBkBQcCZX3n5b"
+    },
+    "cases/合肥万科520借势营销案例.md": {
+      "hash": "4f6f0835313f6268701b5c9942b0cb64",
+      "token": "Mmm4diHSVol4yMxSNiWcZoT1nRc"
+    },
+    "cases/合肥万科“十万红包承包朋友圈”社交传播案例.md": {
+      "hash": "301e618ed7b9c78af9dff1dad5aa337e",
+      "token": "D4X1dTDtsoMVoGxlhMgctnTtntd"
+    },
+    "cases/合肥万科城市之光发布会-如何用40分钟实现96.1%现场认筹率.md": {
+      "hash": "67129f33412a8691fcf71d149ba8c7da",
+      "token": "MdPPd1bixoFl4Nx1fSjcEIAfnqf"
+    },
+    "cases/同区域万科三个项目-如何用不同策略玩转双11.md": {
+      "hash": "1545dfa60bc03427f642ba8b7e8ef2e8",
+      "token": "TSoGdSVULoZ40UxYhdcciTien6d"
+    },
+    "cases/咸阳城市公关案例-激活故土情怀-刷新城市标签.md": {
+      "hash": "8b5b585012f1bbb590359461497faa74",
+      "token": "O2M2d8i8SovyYNxys9CcU5h2n6c"
+    },
+    "cases/嘀嗒拼车-用BD联盟撬动春运流量-日活150万的营销革命.md": {
+      "hash": "c248f2d66101d52846fb7880795269b1",
+      "token": "ZVaJdyXUio2seTxYGfCcrpVbnfb"
+    },
+    "cases/嘀嗒拼车×长安福特「带福回家」-如何用春运场景撬动528万人次出行.md": {
+      "hash": "1191482737bc72af13978801d90f9f1c",
+      "token": "WS2NdsTuho2gM8xxoX6cdHbjn8d"
+    },
+    "cases/嘉兴万科×五芳斋端午联名营销案例.md": {
+      "hash": "5e66fe77f26b430af2ebf1728bd96ca8",
+      "token": "VKW9di9VUohFzIxs75OcLijonGc"
+    },
+    "cases/地产品牌首个运动小程序-从14城定向赛到“轻运动”男团.md": {
+      "hash": "2cee15335eefbb3eec7fe545ae2fcbfe",
+      "token": "K0VRdvBqHopqfhxNRgYcaV6Nnxc"
+    },
+    "cases/地产黑马用一场大咖论战引爆行业发布会.md": {
+      "hash": "141cb5039a2c555641e733486b620096",
+      "token": "Qt31dgQl0otV7bxh1RncAWtNnac"
+    },
+    "cases/地铁万科杭行荟-如何用“新鲜感”概念重构一场TOD招商发布会.md": {
+      "hash": "0e87f01d2fae25b87c32287836228555",
+      "token": "XcQXdPJ7qoKieUxFbUtc5rxDnwb"
+    },
+    "cases/坤和万科·黄龙万科中心K-lab“每周五-见新知”知识海报创意案例.md": {
+      "hash": "6ab21a9a463e2e8ad099a22b26348149",
+      "token": "WUqIdknk3ous1OxVPxUcNkXfnPf"
+    },
+    "cases/城市公关的情感战-如何用城市基因唤醒自豪感.md": {
+      "hash": "5641235db460aa6da95d4b342733066f",
+      "token": "EgtkdWza1oiX79xnYcgcij5vnTg"
+    },
+    "cases/壳牌极速威澎西安发布会-用产品基因撬动城市共鸣.md": {
+      "hash": "1e4b8331bd67b01624bdc7ca025d17e2",
+      "token": "D82VdFSYbouyHexElIDcVZ9Xn4g"
+    },
+    "cases/大学迎新如何从“服务”升级为“价值观共鸣”-欧亚工商学院用一场Kick Off Party给出了答案.md": {
+      "hash": "cacb310e9941065363eddefb03afa984",
+      "token": "Kpm0d4NqbommEGxrvxJcsnu7nFe"
+    },
+    "cases/天空生活节-如何用社交货币和体验浓度-把一次性活动沉淀为品牌资产.md": {
+      "hash": "1d7af22d07469be75490db1fe3b3be61",
+      "token": "DGGmdamUQo39ukxixmlcvPlfngc"
+    },
+    "cases/寄存男友-金科带你去塞班-如何把“万达旁”的配套优势变成一场社交事件.md": {
+      "hash": "d1f17565f04f20766357f674a250b6ba",
+      "token": "L6VDduN84oCfpHxgQxXcVrtHnDc"
+    },
+    "cases/富力红裙跑-如何用一场线上公益跑撬动20万人参与并捐赠5万元温暖包.md": {
+      "hash": "07dc0e9387f0ea074984715e2dece550",
+      "token": "ItSyd3zwcot5tQxKVTScorTFnbf"
+    },
+    "cases/富力西北跨界彩虹合唱团-用“一道彩虹”为品牌主张开篇.md": {
+      "hash": "112a5541ff791a4856baae62713aff43",
+      "token": "XjrGdgnQDoBUYIxiM9rcalRFnAh"
+    },
+    "cases/带客通-如何用微信生态撬动房地产增量客户.md": {
+      "hash": "8e5bea4c7bfb8fef62a32b4c05463ed5",
+      "token": "R8VPdeXNuoTJ4zxWD2XckqGOnZb"
+    },
+    "cases/平安暖宝保-30天700万份爆款保险案例.md": {
+      "hash": "1219959bedc83f8e41709ca3f3e6f419",
+      "token": "Lqw2d8SNjof4oGxmmUAcNZi3nxb"
+    },
+    "cases/广州万科921购房节-用三国IP和民国快闪-把地产促销做成网红事件.md": {
+      "hash": "29c9c605660c2aab877383dd418dbfb4",
+      "token": "V9wRdISifofl71xPE88c4ifrnme"
+    },
+    "cases/延长壳牌化身西马超级加油团-用赛道基因撬动城市赛事传播.md": {
+      "hash": "1a73930c63dcad21237cc7942cb7d883",
+      "token": "KjhpdACxDo6GE1xD4w5cdHMBnHd"
+    },
+    "cases/找山-用音乐与艺术为山区儿童点亮可能性的公益行动.md": {
+      "hash": "d9b90b9f9caf920411196492d98461a0",
+      "token": "EKhHdMbHFoKMxYxTKUgcII2EnBY"
+    },
+    "cases/把工地变成品牌资产-济南万科工地文化IP的三年实践.md": {
+      "hash": "c44232e4471a884c19101dfa80eb48f7",
+      "token": "TRgIdhT0soTsXyx1JwycXIaBn9d"
+    },
+    "cases/招商蛇口上市传播案例.md": {
+      "hash": "3a0d4d1830c1506e7112180715bd11f0",
+      "token": "I34jd3wi8oPVYLxeHancyCC4nOc"
+    },
+    "cases/招商蛇口用扑克牌符号+1亿瓜分话术-双11撬动200亿成交.md": {
+      "hash": "0efca35caa0b4a3e2094bdb21cfc1bef",
+      "token": "ACQ0dklvkoxCgMx5Uwac5YLinbb"
+    },
+    "cases/数字人从0到1-中国电建地产如何用征名裂变撬动346万曝光.md": {
+      "hash": "bf8af39d138282096cf7a946cda3ef07",
+      "token": "GmpdduDAgoOEQGxi0eBcqs2Cncd"
+    },
+    "cases/文案是手艺活-扎好马步才能出好活儿.md": {
+      "hash": "a9510dd1181865012951b874ae244b98",
+      "token": "Ml21dPl9QohKFxxNnS2c2M7EnVd"
+    },
+    "cases/方言歌曲《西安端走》-如何用本地“加密语言”为城市品牌注入情感.md": {
+      "hash": "627de30ce92934f3e1fc2b34caff0ab8",
+      "token": "OhU8dHtXPoTFWLxHY35c5FR1nUb"
+    },
+    "cases/无锡万科用“新关系”重新定义产品发布会-脱口秀-漫画书与60个微更新.md": {
+      "hash": "a8c81ba0c4fc1690012119535d7775e0",
+      "token": "IwPedOwm5omG2gx9m35c03Rtn13"
+    },
+    "cases/智慧生活-来真的-——美的地产如何用科技基因跨界颠覆地产.md": {
+      "hash": "30ff3d1d02d7cf43003079d9dcf2d5c8",
+      "token": "XsVrdxTCAon9NIxAUuicR83SnOe"
+    },
+    "cases/智讯10年10案-智讯曾为地产营销带来哪些新打法.md": {
+      "hash": "3aa4b26a5a9731482f8565f88df3c494",
+      "token": "TLEldDUHCoQZ1gxatqXcBM4nnUs"
+    },
+    "cases/智讯2019年春节营销案例集锦.md": {
+      "hash": "7777ed6c03e5d4224e06693cd34c1dc5",
+      "token": "YYQ0duoigoKYUxxGz5rc0ISPnib"
+    },
+    "cases/智讯上海成立-用大数据×品牌社群-为地产转型提供“开模入市”方案.md": {
+      "hash": "140967ce78ec51bbd58ba73f153dd2ef",
+      "token": "PwZodzRTaoJlNpxLM9Jc6xhknGh"
+    },
+    "cases/智讯互动与中科创星战略合作-从创意机构到投后管理服务商.md": {
+      "hash": "07141d9ebcdd5e90bed275597d639ca9",
+      "token": "JmoVdSsFrot4VcxxVDsc86jznYd"
+    },
+    "cases/智讯拿下嘀嗒拼车全案-从“深度运营”而非“表层推广”切入共享出行市场.md": {
+      "hash": "f9ad75c8f769858406fb4c322fdf7df2",
+      "token": "PtgDd9xyOoV0ynxPLs9cxxNYnVe"
+    },
+    "cases/智讯策划2022年8月整合营销案例集锦.md": {
+      "hash": "f0798dcfe9ea518cf35fddafbb862047",
+      "token": "FQPIdI7jooL213xtHCxcWrXinDy"
+    },
+    "cases/杭州不只是杭州-万科如何用3分钟城市影像点燃2000万次共鸣.md": {
+      "hash": "b494165e7bca88ddd1e42b0cf3c6cb1c",
+      "token": "Ctjpd5OlXor7JHx6W9hc9gZon8f"
+    },
+    "cases/楼市苦寒之地沈阳-万科如何2天卖出1.4亿.md": {
+      "hash": "4dab1f4e8f0bee3e6fdcd2ed24029793",
+      "token": "Q2pOdXENdohauCxDKkucWZNInAY"
+    },
+    "cases/死盘30天清盘69套-8530元推广费如何撬动5000万回款.md": {
+      "hash": "090ba77aa9367afc8068eba66e2f1ab9",
+      "token": "PgSFd1IbwohtYkxKDJ1co4EKnTg"
+    },
+    "cases/比亚迪如何用一场城市情感营销-摆脱“出租车”标签-成为西安新中产的新选择.md": {
+      "hash": "d3cc24bc5ef184b56966d69d5dfd0fd3",
+      "token": "ByLZdw0uioGkE9xx4rrckWoInkh"
+    },
+    "cases/沈阳万科如何用微信带客通撬动全民卖房.md": {
+      "hash": "b374965162589c75185260d3e17e21f5",
+      "token": "JXO0doRNcorsuUxwyq7cjIgJnpc"
+    },
+    "cases/沈阳万科用“微信带客通”引爆全民营销-2周注册221名置业顾问-47187次有效分享.md": {
+      "hash": "c538ab2ba84018784cf0d76238c5f496",
+      "token": "PanfdmFXjoxQWvx3srwckaMKnvd"
+    },
+    "cases/沈阳万科获微信高级权限-内部186人带客通平台签约22组成交1300万.md": {
+      "hash": "cfe0b4b083150fe1d63332c89fd7e26b",
+      "token": "UYsNdFMPBocwljxHkzLc9IN9ntc"
+    },
+    "cases/沉淀五年的IP活动如何焕新体验-万科“甜蜜课堂”五周年案例.md": {
+      "hash": "d5d44967e0d7f1eec17e473c52b5ee3e",
+      "token": "KkQ5dgvONo47o2x2bglccxxYnce"
+    },
+    "cases/温州万科“全温州冻起来”活动案例.md": {
+      "hash": "7f9fd55dd7e52a6271ccba2a0976fc19",
+      "token": "Dz67dI4CzoGtGMxtBxnc0OaDn0c"
+    },
+    "cases/温州万科线上线下整合营销活动案例.md": {
+      "hash": "4114de70125752dcceceed808fd801e1",
+      "token": "POhNdFNlXo0CEKxabBBctQZUnDf"
+    },
+    "cases/甜蜜课堂7年-从1堂课到1座植物园-万科如何用长期主义打造社群IP.md": {
+      "hash": "84a02dd3592c00b794dea108e406c33e",
+      "token": "GsFCdARcOolLO4xVFskcBJH3nId"
+    },
+    "cases/用AI唤醒千年故都-咸阳如何将数字概念转化为3万游客的嘉年华.md": {
+      "hash": "2d5c71254819afe0d37e7b5e17584de2",
+      "token": "QX2QdDf2noMw1RxXYvccKtyGn8e"
+    },
+    "cases/用“加个大油”大油卡撬动社交传播-延长壳牌春节礼品卡售罄.md": {
+      "hash": "e6f99a529424d21215c843c638e43b41",
+      "token": "QX4rdwVyQoo3glxqEmCcFLx5nsh"
+    },
+    "cases/用“诗意”唤醒生活-看万科如何传递品牌温度.md": {
+      "hash": "f60eb1c09becae79e75df1631aa68344",
+      "token": "Pe4odaDjPonMrzxvDQwcoGdYnQg"
+    },
+    "cases/用一首电音说唱激活千年古都-咸阳高新区如何以少年感刷新城市认知.md": {
+      "hash": "523cc029af2fa9a6b3d5828eac2d4739",
+      "token": "Tbw4d82UsoBOK1xVHLvcrnYyn5R"
+    },
+    "cases/用动画音乐H5实现城市级营销-《望京来》如何做到10万+刷屏.md": {
+      "hash": "6b6baf4657533a227cdcf447ff34758c",
+      "token": "NmTLd2uwJoBuAKx9VVwcX7PKnPg"
+    },
+    "cases/用场景感打造劝学荟主视觉-不卖商场-卖欢聚想象.md": {
+      "hash": "a94ae9f3b111627e431bf20b945976ba",
+      "token": "TWbzdIhLOooD3sxLf5Ncu5ngnAf"
+    },
+    "cases/用城市文化原型“私有化”创新-西安万科如何打造“秦小万”IP.md": {
+      "hash": "7bce05001192a13b5e5164bce545d0d6",
+      "token": "M0iGdUPOpoO2aAxQQ87c5LcHnbb"
+    },
+    "cases/用声音艺术为兰州山居项目创造高端感知.md": {
+      "hash": "e4b075dca42041a1f0570cdfb5f0933d",
+      "token": "VVRwdOPBQopLpAx4f96c8SEOnGb"
+    },
+    "cases/用流量思维解决带客问题.md": {
+      "hash": "a67e98612394e71018badf5e7b6c7f14",
+      "token": "EagWd89CPoGREnx7p3icZh6rngc"
+    },
+    "cases/用赛博朋克视觉炸场-为千年古都洛阳制造“潮起潮不洛”的城市级话题.md": {
+      "hash": "149ec33cd10097480c0afc121d7ba806",
+      "token": "Y0QWdXPJyo1UUqxbEmCcFYCRnKg"
+    },
+    "cases/病毒视频7.9万次点击-新长安广场II期用'谁踩了老板的脚'打破写字楼同质化推广.md": {
+      "hash": "0b6f303295d77c7a4d8345730f9f944e",
+      "token": "D8I4dYXODovmjnxqk7WcnwKMnq9"
+    },
+    "cases/百万方大城白云星汇城-如何用社群-兑现力与稀缺性一年半清盘.md": {
+      "hash": "6f5606dc13f4a1a8a1fb6c81c68f7195",
+      "token": "XkyVd39w2oYc8uxXw7YcmAFHnF0"
+    },
+    "cases/碧桂园东北区域2017春季品牌发布会整合营销案例.md": {
+      "hash": "bcb142ed7108d11756223ba6dc59a344",
+      "token": "P3ffdd59ootAmwxUZUNceSMsn4d"
+    },
+    "cases/碧桂园西安云系发布会-用赛博朋克城市大片引爆456万话题阅读.md": {
+      "hash": "a6165a6a595f502aaab612061b104586",
+      "token": "ICDxdcDfioF1pexFdcocG73SnZy"
+    },
+    "cases/社交媒体时代-只有100分的创意才有价值.md": {
+      "hash": "5c4f9bf67aa3ba3b15722a0f1a4726cf",
+      "token": "HaxQdLjQEoMUohxwUVAc1lhmnzc"
+    },
+    "cases/空卡苏打酒万圣节营销-用怪兽IP和“见鬼-上头了”撬动长沙夜生活.md": {
+      "hash": "60d736047c454e3a5981cfb78fe7fe43",
+      "token": "QHcTdGZHooPvXJx23uIcOwYmnsg"
+    },
+    "cases/米兰世博会万科馆“能见蔚蓝”环保传播案例.md": {
+      "hash": "7234b66e481dbbbc8c1dec10f1a681f4",
+      "token": "CcqVd3lgVot5UjxULa1cYNKLnqh"
+    },
+    "cases/美的地产5M智慧星球线上体验馆H5案例.md": {
+      "hash": "6576ae863b2f6857366b28ee02bd9cb0",
+      "token": "HrcRdEUufochFixRi1ZcDxmnnCc"
+    },
+    "cases/美的地产智慧人居4.0发布会体验式传播案例.md": {
+      "hash": "8df6d90b892e11730d0c2b1091ffcc77",
+      "token": "FFRlddAlMoElPixTxercHSfDnAh"
+    },
+    "cases/花式玩转项目关键词-实现快速有效落地.md": {
+      "hash": "6f1d3580040c9064bb50f7c5d1e50478",
+      "token": "PWtZdylmqoAXoCx0yfpchrSVnCe"
+    },
+    "cases/苏州万科如何用综艺手法打造社群IP-美好生活大赏的五大支撑因素.md": {
+      "hash": "de8152f3d6d72d5e047f02ec3a1b0930",
+      "token": "NAMjdG1tYoOeCvxpxbTcee3rnFh"
+    },
+    "cases/苏州万科有志青年购房节-用“苏漂”情绪撬动刚需购房行动.md": {
+      "hash": "4268fc31c2622e00e2118aa49c3b5589",
+      "token": "OPVgdUO94oR7SXxNnmOcHiRbndg"
+    },
+    "cases/袋鼠先生IP-一个地产项目如何用超级符号撬动广州改善客群.md": {
+      "hash": "f96b5d5b70581a936ec69de3b47b08f8",
+      "token": "HFwKdiHsDoBRycxEYlXcyaaQnze"
+    },
+    "cases/西安万科城墙跑-将业主答谢会做成城市跨年盛典.md": {
+      "hash": "f9700b960cfbfe9eeff094d7d77e9985",
+      "token": "B7XpdGyqMomAU0xjIYKcsatan5f"
+    },
+    "cases/让90后接受养老-全民保开门红的三波社交传播.md": {
+      "hash": "a9cdb5823a699b80c257d201b6a178dc",
+      "token": "IoIJdWHZRoOhuNxW9uOc1prEneb"
+    },
+    "cases/让邻居家的灯火_照亮营销的温度.md": {
+      "hash": "a8b4507b32562b072c90f416dbea95a4",
+      "token": "STSfdZaTCo4cYAxPHs6cJIoNnsb"
+    },
+    "cases/赛博中国计划-城市的另一种打开方式.md": {
+      "hash": "a1ad374e259f036120743ce1c0ce25ae",
+      "token": "Qs6YdVDoxosiGHxRX2rc8lPzn4b"
+    },
+    "cases/越秀地产如何用知识直播破解“有实力却没人知”的品牌困境.md": {
+      "hash": "6d24dde57c5f49635fc1e6905ff007b8",
+      "token": "TRYYdGjkiouMclxi0Nicn61anmN"
+    },
+    "cases/越秀地产广州区域-借政府站台讲故事-逆势下重塑置业信心.md": {
+      "hash": "c79fc45ce7c37fdf03f55bc35d9309a1",
+      "token": "ZcomdmoqGo4V7Fxl52hcf0MAnag"
+    },
+    "cases/返乡置业的五次破局-从煽情牌到城市性格认同.md": {
+      "hash": "64ad61d910603b158bcfc00a03679a49",
+      "token": "WMWVdZBbAoitPUxWz3vcfW3Knbb"
+    },
+    "cases/速朽时代-如何用杠铃策略把品牌刻进老墙.md": {
+      "hash": "bac9d900be32e4ce5b726364b6cfd036",
+      "token": "Rru9dh1t4oRZxoxWd2UceNivnhe"
+    },
+    "cases/金地西北如何用3000座纸板小屋“攻陷”草莓音乐节.md": {
+      "hash": "b25d22987c78f7a644a55239de90074b",
+      "token": "UinIdbG0pogwhRx3hLfceAqkn4f"
+    },
+    "cases/陕西保利成立“电影制片厂”-用短视频内容营销对抗地产传播同质化.md": {
+      "hash": "8c606d4675a96b94dbdb6c64e77d3461",
+      "token": "OHjBdAiscotZJRx59fUcJBMjnOg"
+    },
+    "cases/陕西保利让AI为西安写歌-全链AI创作如何实现IP创新与传播出圈.md": {
+      "hash": "7b7374c5afe95930ee7a8a68ae9ec8da",
+      "token": "WddldHF8zorjzjx3H6ncpcaQnLd"
+    },
+    "cases/零费用锁定2000名意向客户-沈阳万科一折抢拍的营销逻辑.md": {
+      "hash": "23005815429a7b811fc763af25a46de3",
+      "token": "Rbhjdlaw5o7CDXx8Q0ic6sNknSe"
+    },
+    "cases/龙湖“我们的龙民节”2023-从企业节日到集体文化IP的品牌资产管理.md": {
+      "hash": "58a8c1c88f99cc5437299c89a1ae3374",
+      "token": "EjIgdcBfroJnk7xBtWecYVAsn3c"
+    },
+    "hua-yu-hua/methods/一切产品的任何价值都可以通过超级符号来表达.md": {
+      "hash": "1656102119894795a389cad3cd70af13",
+      "token": "GmDadEaI3od4rCxtwRfcrAPWnoc"
+    },
+    "hua-yu-hua/methods/三个绝对-华与华绝对论.md": {
+      "hash": "f358077c4564e93349668c5fb953345d",
+      "token": "DJpUdcmrEoPLOxx29q6crumJncg"
+    },
+    "hua-yu-hua/methods/三现主义和持续改善-现场-现物-现实.md": {
+      "hash": "f182f53dfa706a43e6716c93b6e5b31b",
+      "token": "XDr1dG6CpomUGnxjnwAcbP6znef"
+    },
+    "hua-yu-hua/methods/三种值得学习的老师-行家-观察家-专家.md": {
+      "hash": "1b079c689ec89a442812c787a69dfbe2",
+      "token": "GP29dxIyJo8CXvxTdvQcAv8JnCe"
+    },
+    "hua-yu-hua/methods/中国文化母体原理是我们生活的基本原理.md": {
+      "hash": "f299a87b0a0460e02960dcc3571f7363",
+      "token": "KgjjdxuRPodnj3x5n1uce2FbnKh"
+    },
+    "hua-yu-hua/methods/中西方修辞学的区别与华与华广告修辞学.md": {
+      "hash": "c2e7642e8862c3c8e0f8670361a96b82",
+      "token": "C6hOdxRddor1l4x5VqjchSMRnSg"
+    },
+    "hua-yu-hua/methods/为什么你的方案做不好-就是因为有私心.md": {
+      "hash": "6c61fbfcbd1937714aba2fa084e39e7f",
+      "token": "CzvjdtF77oSqS6xmMt5c4X1snrf"
+    },
+    "hua-yu-hua/methods/习惯共同体-华杉2021读客年会演讲.md": {
+      "hash": "28804528d12bc72f008b9e7d77727503",
+      "token": "KYFnd0nZ1opCcZx3S4ycDksgnDh"
+    },
+    "hua-yu-hua/methods/产品的本质就是购买理由.md": {
+      "hash": "9c0fe160f3dd78acb2632b25b15f35aa",
+      "token": "PwpsdlWrNoFZp6xgRCRcJgAanmd"
+    },
+    "hua-yu-hua/methods/企业三大定律-科斯-德鲁克-熊彼特的经营法则.md": {
+      "hash": "5e831c80b3f705417a2c84bad8079966",
+      "token": "XD12dGZtsoPYtpxHqCVcYhWmnZb"
+    },
+    "hua-yu-hua/methods/企业是社会的公器-华与华企业战略菱形模型.md": {
+      "hash": "b50c4dc22a82adc73256e84d1ff5f11a",
+      "token": "ETpDduRwvobKPWxTWxtc32ZunNg"
+    },
+    "hua-yu-hua/methods/企业的原理和品牌的原理-华杉2018读客图书年会演讲.md": {
+      "hash": "1a77effbc60bfff40435f6121cee9c39",
+      "token": "MhHLdeKARo5gqCxDlvuc89KJnhL"
+    },
+    "hua-yu-hua/methods/做企业关键的不是多挣钱-而是能够渡过灾荒年.md": {
+      "hash": "ef2f1bf8b257587b8b54911a4f83463a",
+      "token": "PwpUdvq12o905nxeVvactXXynrb"
+    },
+    "hua-yu-hua/methods/全球品牌理论的历史性错误-品牌不是为了区隔-而是为了发送信号.md": {
+      "hash": "e6e422e2519bd3f4214642b8fb4eaa35",
+      "token": "Q3cXdJ3xkoYKt2x4ddbcnaitnAg"
+    },
+    "hua-yu-hua/methods/六大本质 不败兵法-广告-媒介-流量-竞争-企业-品牌的本质洞察.md": {
+      "hash": "dcc56c1caf0f8106ef4e770e6f64ca57",
+      "token": "YaIqd42UXobszvxolOvc02Oknop"
+    },
+    "hua-yu-hua/methods/写文案不要说清-要说动.md": {
+      "hash": "5bedab96a024d79ca1a7ee3801e7098e",
+      "token": "DnbmdTjzgo8rrtx9pP9cElXVnfz"
+    },
+    "hua-yu-hua/methods/制定年初工作计划-找到工作重心.md": {
+      "hash": "2a265c28e02c381f5712b8e467bf45be",
+      "token": "OmVFdWoUbo9weZxZA66cLIugnQb"
+    },
+    "hua-yu-hua/methods/华与华七大做事哲学-知行合一-找到真因-凡事彻底.md": {
+      "hash": "328173c144a935ed0db7fc68065033d4",
+      "token": "ZaFSdxroGoOtEnx3ad8cWUk5neh"
+    },
+    "hua-yu-hua/methods/华与华七大做事哲学.md": {
+      "hash": "3650d74c85c1e17006dd01e1b7d0864a",
+      "token": "ByXEdcreSoLaMWx9BZZcyuS4nbc"
+    },
+    "hua-yu-hua/methods/华与华三大基石思维方式-最终目的-三现主义-具体动作.md": {
+      "hash": "669bb0819e674bd87fe087782305daa7",
+      "token": "Clr0dqwOwoqBHUxQye7cowvwnrg"
+    },
+    "hua-yu-hua/methods/华与华世界观-使命愿景价值观的底层逻辑.md": {
+      "hash": "ba41b6774870309dea554175cb363ece",
+      "token": "IoLqd1KYso9OVTx2zBoc35tZnve"
+    },
+    "hua-yu-hua/methods/华与华价值观和生产方法-新人筑基的核心.md": {
+      "hash": "d838f2df6d04d0bd646e697f38c318ce",
+      "token": "GwiGd5ZdMoJ6pMxWOzTcIm7wn4f"
+    },
+    "hua-yu-hua/methods/华与华全员居家办公2个月-16个实现高效管理的恐怖手段.md": {
+      "hash": "2397b61e4154204ad04b790915927450",
+      "token": "TIu4dXQBXoqu6UxD1xUcbWI8nob"
+    },
+    "hua-yu-hua/methods/华与华发布“品牌”新定义-品牌是产品和它的牌子.md": {
+      "hash": "3bdc0698dee65466d776353404718a4c",
+      "token": "OmP8dWNSPo8p1UxfrLLc9RBXnhh"
+    },
+    "hua-yu-hua/methods/华与华品牌五年计划-从超级符号到社会公民.md": {
+      "hash": "06196e0c0bd9b675f1bfa13611365a82",
+      "token": "M1K6deykfoO7sYxNwXzc2xYln3f"
+    },
+    "hua-yu-hua/methods/华与华品牌修辞学-匡迪保温杯品牌发布会演讲.md": {
+      "hash": "e526f7c2b22643ebdbd812f05886676c",
+      "token": "GbFRd5T6ZoCEFxxP3swco8D9nAe"
+    },
+    "hua-yu-hua/methods/华与华回答西点军校Donnithorne教授的六个问题.md": {
+      "hash": "43c8f06df23cb6599b8f0489de2b32c4",
+      "token": "Xd1HdD4MKoCCX8x44c0cYyk4nXd"
+    },
+    "hua-yu-hua/methods/华与华如何对待新客户-近悦远来.md": {
+      "hash": "6a1129534382fee46131fce060510fc1",
+      "token": "Qf05dbveboyaWBx2RofcagSpnwf"
+    },
+    "hua-yu-hua/methods/华与华寻找并运用超级符号的内部方法-10步法.md": {
+      "hash": "f4b70efa1a069b9fb8ad83b944077281",
+      "token": "NwPodxBFboFTiFxg18Zc4KSOnPg"
+    },
+    "hua-yu-hua/methods/华与华市场调研论-走透市场的第一招是“不要脸”.md": {
+      "hash": "087353b10c893e341f6ddf7814752dcc",
+      "token": "ZmradNBSMo2DF1xVrqxcccGtnVh"
+    },
+    "hua-yu-hua/methods/华与华广告修辞学原理.md": {
+      "hash": "dbfb56f28f7fd74637a7e81d172fb16f",
+      "token": "Cj8TdCfnNoIptBxWWvGczpjEnRd"
+    },
+    "hua-yu-hua/methods/华与华方法-重新发明广告业.md": {
+      "hash": "985b217637888af443e0bf7a4d06ae05",
+      "token": "WWE4dvJUqobTrYxUGqvcVnqon8f"
+    },
+    "hua-yu-hua/methods/华与华方法品牌理论体系的“三纲八目”.md": {
+      "hash": "b569974d07ed68d1bbb1ced6e7ca9ed1",
+      "token": "Z3ESdHKevoL9NGxY61Sc2RlFntc"
+    },
+    "hua-yu-hua/methods/华与华方法总纲-三句话.md": {
+      "hash": "ea5165c95ac12ef9c33892aa047b654a",
+      "token": "TrjPdPPvEowb3LxwRKxcyjqGnCd"
+    },
+    "hua-yu-hua/methods/华与华晨晚会管理法-员工不累-效率加倍.md": {
+      "hash": "de27f62df68f953dd7b4522f7f872727",
+      "token": "AeePdBouTovWdGx1yfScte7UnMW"
+    },
+    "hua-yu-hua/methods/华与华王道2029-行仁政-重耕耘-用儒家思想经营.md": {
+      "hash": "9c5a037ec6f79117a1f3503f0e4a9945",
+      "token": "WiT1dF2PJosmjTxUzAccmgGgn2c"
+    },
+    "hua-yu-hua/methods/华与华的“三不”核心价值观与“三心”企业精神.md": {
+      "hash": "1cdd5bf052e1046d395dec644e5d8b1f",
+      "token": "YJEmdHFf2o3Qf3xRzcecSMePnZb"
+    },
+    "hua-yu-hua/methods/华与华的人是怎么学习成长的-——“我问华杉”现场问对实录.md": {
+      "hash": "d5950e54692fc3ac277433bc7e83ace2",
+      "token": "WWiOdTTIeoGVYbxK0e9c6iqznWg"
+    },
+    "hua-yu-hua/methods/华与华经营哲学-企业三大定律-积累的王道与悦近来远.md": {
+      "hash": "6ba4ef91963aba0576c6dd962cc7f82a",
+      "token": "KeordOL8IoZKTmxZkgIcOLSAnoe"
+    },
+    "hua-yu-hua/methods/华与华解决“丢客户”的10条方法论.md": {
+      "hash": "6995f16129359d8f71cb989806760a98",
+      "token": "DdGYdn5UyofQrbx7OIecs9cAnkh"
+    },
+    "hua-yu-hua/methods/华与华资深设计师的5大工作弯路与直路.md": {
+      "hash": "35ace47a9dfa7e405ba59a83d52ef693",
+      "token": "EcqidfBj1oYH4kxW3PPcfpa6nrg"
+    },
+    "hua-yu-hua/methods/华与华超级符号理论的学术新发展.md": {
+      "hash": "a7a76fce76d4228f7acf9206bd99defc",
+      "token": "XVsJdiprvo4kQHxWGh0cC5PwnR0"
+    },
+    "hua-yu-hua/methods/华与华超级符号美学-古典美学是品牌设计的唯一正确答案.md": {
+      "hash": "375e1885b06cfbb39916e8e0cb76d11e",
+      "token": "WfWcdz3WRoKgDwxenbQcR185n4c"
+    },
+    "hua-yu-hua/methods/华与华门店选址黄金八步骤-提高餐饮街边店选址成功率.md": {
+      "hash": "459b71529ad3503cd7270d0562f6d2d2",
+      "token": "EOMFdxzRqo1qZBx6cz4cVhgSnNN"
+    },
+    "hua-yu-hua/methods/华与华高续约率的关键-像生产汽车一样生产创意.md": {
+      "hash": "67e83c058dfc1d485d554aa5af01529e",
+      "token": "V86ddYPQBoK64ixcZ2AcbXCjnlf"
+    },
+    "hua-yu-hua/methods/华杉-理论——企业的根本原理与战略营销.md": {
+      "hash": "79c2fe5b56c78f471c074f0a608a35f7",
+      "token": "Q1LEdplmboy7Xqx2AANcdYnKnjb"
+    },
+    "hua-yu-hua/methods/华杉2020读客年会发言-抓关键动作.md": {
+      "hash": "2c7076e2c8e0f591b97aa83d35c9dbfa",
+      "token": "TMu2dPrvuouQXXxwgFqcOL5MnYg"
+    },
+    "hua-yu-hua/methods/华杉50岁生日感言-十个人生脚印-十大人生信条.md": {
+      "hash": "a0bd8a7aa972fe198275e0cbba6c1836",
+      "token": "AuWZdqBZOoyXT9xxpRrcxE8unm1"
+    },
+    "hua-yu-hua/methods/华杉新加坡演讲-如何在中国市场建立品牌.md": {
+      "hash": "04f4ad64690bef1c094e43b201d87626",
+      "token": "XgxLdQa1qoyNGdxCflkcBuUhngc"
+    },
+    "hua-yu-hua/methods/华杉解读《大学》三纲八目-止于至善华与华.md": {
+      "hash": "bfbcde493d3d5448878b956279037f62",
+      "token": "AyzydzOvzoE2V1x90xQcS4kYnpf"
+    },
+    "hua-yu-hua/methods/华杉讲透王阳明-如何养成知行合一的习惯.md": {
+      "hash": "354bd6901438182ed450cc0df3e2cf3d",
+      "token": "LVZydX5e3opwy7xHbL8cc65untc"
+    },
+    "hua-yu-hua/methods/华杉讲透营销和品牌入门理论（2022年度演讲）.md": {
+      "hash": "1cec5c714fd39be58a0143dcefc9e7d7",
+      "token": "GbFkdbYKRoOFLtxiolYc8H0vnBc"
+    },
+    "hua-yu-hua/methods/华杉谈新消费-流量与品牌-营销的本质是4P.md": {
+      "hash": "0c9b5f423b8c7fc558d88b0b5bebaae9",
+      "token": "JO8jdefVNoojR0xptTFcsYfRnPd"
+    },
+    "hua-yu-hua/methods/华杉谈新消费浪潮-流量主权与品牌建设.md": {
+      "hash": "43954c0e15ea0a041394a3c20f1c2e91",
+      "token": "K5Fydp9BZoqKDDxpSpncXyohnfh"
+    },
+    "hua-yu-hua/methods/华楠-高压高热-鼓点不停——成长的唯一路径.md": {
+      "hash": "9bc2c5bb38bbc1c84ae5ec15e6ff8638",
+      "token": "QBPhd4DgeogWoKx5olIcnYaDn5d"
+    },
+    "hua-yu-hua/methods/品牌十六字咒-超级符号-品牌寄生-购买理由-货架思维.md": {
+      "hash": "a6822a60ffc3f8fd5335491fa3140e00",
+      "token": "B3dldun4yosdPjxdfUncadwanlc"
+    },
+    "hua-yu-hua/methods/品牌就是用来出事的——品牌三观-品牌失灵论-品牌成本论-品牌资产观.md": {
+      "hash": "649e8463b80b41bfa568092223dbb557",
+      "token": "IjzgdBUbioC4z8xaWlucKziqn5c"
+    },
+    "hua-yu-hua/methods/品牌的目的-始终服务于最终目的-随时回到原点思考.md": {
+      "hash": "a06f14d41d1c1268f1d56f424de48837",
+      "token": "X1SOdAhBvoHeRmxH2JxcDUWznzc"
+    },
+    "hua-yu-hua/methods/品牌资产是怎么流失的.md": {
+      "hash": "523563dc55acbeab156253133be03818",
+      "token": "Fhgwdj4Nro41ewxKfAZcg4SFnzf"
+    },
+    "hua-yu-hua/methods/品牌资产观和营销服务观归根结底都是价值观.md": {
+      "hash": "af30e1be384fe5c4f15b5ffd3d4470f7",
+      "token": "CP4bd1QZnoRY8wxvgbxc8QIenAe"
+    },
+    "hua-yu-hua/methods/坚持就是运气-个人及公司成长的四大基本原理.md": {
+      "hash": "7e1cb1d23f077f02c6d4613eaf8239e1",
+      "token": "AGlRdqmvboqMEkxvplxcTCrWn2g"
+    },
+    "hua-yu-hua/methods/城市品牌营销的六条经验.md": {
+      "hash": "c9874ee5382dd1636bd0667191dcf9a5",
+      "token": "GeaIdi5eCoo5uux2YXpc9uOjnef"
+    },
+    "hua-yu-hua/methods/如何理解超级符号-品牌十六字咒之首.md": {
+      "hash": "7c2af58f5acad90de02d7af1bac80a81",
+      "token": "FkeKdErl9ofqxuxM16PcPCb8nMd"
+    },
+    "hua-yu-hua/methods/如何用《孙子兵法》设计你的人生战略.md": {
+      "hash": "6a059250c0917298544fc3006b95c900",
+      "token": "QgY5dw1FDob6O5x2pLtcl0Z8nbg"
+    },
+    "hua-yu-hua/methods/孙子兵法不是战法-而是不战之法；不是战胜之法-是不败之法.md": {
+      "hash": "9124c92755d78afd169588f12cd0b8db",
+      "token": "OJS3d2jL5oAt3exFIP5c8RkOnF6"
+    },
+    "hua-yu-hua/methods/定位学派的两个陷阱-过分简化与过分自信.md": {
+      "hash": "7f5a8124348abaa335b879734f231eee",
+      "token": "UBnUd9Tr8ofyPHxGOPtccozVnUP"
+    },
+    "hua-yu-hua/methods/对客户的事业绝对忠诚——华与华儒商思想.md": {
+      "hash": "f687585a7b191a3ea24cd00c024c482b",
+      "token": "DDBTdTKUVoJzRhxs9D2cQfxjnlx"
+    },
+    "hua-yu-hua/methods/广告-宁可质朴到粗野-不要浮华到虚无.md": {
+      "hash": "303b8dca12acbd61de67a26e183e2dc0",
+      "token": "Xv62dmna3oGxjhx8lVyc8CRVnLc"
+    },
+    "hua-yu-hua/methods/广告业如何在思想和理论上引领企业.md": {
+      "hash": "ff22ad45557d6385162ccc56b4930f3c",
+      "token": "TY1idB242oIQbTxi88jcmkp0nfe"
+    },
+    "hua-yu-hua/methods/广告就是钓鱼-内容比形式重要-鱼饵比鱼钩重要.md": {
+      "hash": "15e90a8140de9a894f7ab54574919874",
+      "token": "HbSLdGYUPoXOENxMDQZceLNEngb"
+    },
+    "hua-yu-hua/methods/广告的信号能量越强-则效果越好.md": {
+      "hash": "7b6dace1405d425c07817e8cb796790a",
+      "token": "S49edgTtooxnr2x0a0NcBstun5P"
+    },
+    "hua-yu-hua/methods/成功的真因-品牌的原理.md": {
+      "hash": "3da6c99d0ff04a5bfc8ba615cd46f473",
+      "token": "VR2LdWrR8oq2aqxpWn0cByFinjf"
+    },
+    "hua-yu-hua/methods/我们的事业是什么——华与华“下苦功”2022年会演讲.md": {
+      "hash": "907feaacedd4e234f326d1d2c91cab53",
+      "token": "OkfgdvTgboydWQxD3dvckhEknse"
+    },
+    "hua-yu-hua/methods/我问华杉-2017年最后一波问答.md": {
+      "hash": "6eb134ea59b5f2358655ebd0cb082eb9",
+      "token": "YGNnd10NvowN94xjEiic6tvenie"
+    },
+    "hua-yu-hua/methods/我问华杉-如何提出一个有价值的问题.md": {
+      "hash": "46015535ba55bf90efc9bd06313eba5e",
+      "token": "NWM6dbz2Zo9nQlxzIECcz8fnnrb"
+    },
+    "hua-yu-hua/methods/找到四个痛点-学做“圣人公司”.md": {
+      "hash": "2afb0db5aecd9bd25f2cdfdf38372625",
+      "token": "IpFRdmzKHoZwjYxfiaTcybuInh3"
+    },
+    "hua-yu-hua/methods/投广告就是交品牌税.md": {
+      "hash": "c7da46fe3fe710521f7ff60f16491bc3",
+      "token": "MhCFdCl9DoKwm9xfr0qcLcqlnqe"
+    },
+    "hua-yu-hua/methods/掌握流量主权-互联网时代的流量“戒毒”.md": {
+      "hash": "5622409255aea6922dc7f09a966bf1e5",
+      "token": "Uv9ydbQsVoNUWOxXCDYcDmTvnWe"
+    },
+    "hua-yu-hua/methods/文化母体·超级符号与全球品牌-华与华五大品牌理论.md": {
+      "hash": "341b418fac57bbd4b87e54ee8fe119db",
+      "token": "BUgEdwpVloMgP0xPkQEcgKNcn2c"
+    },
+    "hua-yu-hua/methods/文化母体的四重境界-从母体中来-到母体中去-成为母体-壮大母体.md": {
+      "hash": "d5fe23d4b6d99f79ec91b67f2fb4dd56",
+      "token": "IVThdTmW6oUCmxxvjewcesdmn3e"
+    },
+    "hua-yu-hua/methods/新员工要了解华与华的志向.md": {
+      "hash": "ce4666d4889b4baa3feefd35918eafd1",
+      "token": "NG0rdo7UwopQyRx7LOBc3cLBn5c"
+    },
+    "hua-yu-hua/methods/消费需求是个坑-购买理由才是真.md": {
+      "hash": "b3203b5e74843cee2a6e10e233d56dc8",
+      "token": "QrS2d5iHtoV616xhRHlcc1cYn84"
+    },
+    "hua-yu-hua/methods/清洗词语——重新认识竞争.md": {
+      "hash": "ecc90fc635a84caf9fbcfeeb28c48b49",
+      "token": "ZhWidw8lzoxqAdxR39JczghWnDd"
+    },
+    "hua-yu-hua/methods/竞争不是为了打败对手-而是为了赢得利润.md": {
+      "hash": "c271bfd7a00467555803381650bf7d00",
+      "token": "UOWyd5EG8oSaEfxMFBacWRRLnCe"
+    },
+    "hua-yu-hua/methods/终身事业-终身顾客——华与华“磨练2019”年会演讲.md": {
+      "hash": "c5c1fe0077433448ef37d0bde03aa898",
+      "token": "PV6SdpqCDoYw1Ix6TGIcfbbQnmh"
+    },
+    "hua-yu-hua/methods/营销传播的哲学问题-超级符号就是营销传播的一切.md": {
+      "hash": "bcca16670ce7dfed5a1aeaf6b7c2569b",
+      "token": "CVWsdDsnuonizCxl9j4cTczZnRf"
+    },
+    "hua-yu-hua/methods/营销成功的秘密-产品-价格-渠道-推广-没有捷径.md": {
+      "hash": "8e6032ccb1264e4add698d72069fc5bb",
+      "token": "W1G4dUGXEoXga2xJVzqcw2S5nKj"
+    },
+    "hua-yu-hua/methods/营销的两种价值观.md": {
+      "hash": "25fac09d76d2c1dadeb87dcb14c6c6bb",
+      "token": "Myqxd5bydos99gxgFm4crxg5n2d"
+    },
+    "hua-yu-hua/methods/行为主义与行动导向-华杉2023年度演讲实录.md": {
+      "hash": "149a78abd9e78f04a692a54ca6ba0274",
+      "token": "XBngdh9C8oTlcxxObfncHcDDnBg"
+    },
+    "hua-yu-hua/methods/西贝的成功是4P的成功-首先是产品开发的成功.md": {
+      "hash": "5e09890bd75aea1c8e59c414c0b54c79",
+      "token": "YBGNdAm6yoa84ExPGS3cP6KNnnb"
+    },
+    "hua-yu-hua/methods/订单制咨询不成立-华与华是订阅制.md": {
+      "hash": "c07aeb9a381bda2641b9def3c86f570e",
+      "token": "PzILdaGj6o1dTtxibLycJGqBnAf"
+    },
+    "hua-yu-hua/methods/记录好购物者的旅程-才能改善好营销的工作.md": {
+      "hash": "a9385aff3a68ff5efb2b9f85dc41f3a4",
+      "token": "Y3xOd9ELronenixuoykcVDxan2c"
+    },
+    "hua-yu-hua/methods/诚意正心-才能少走弯路.md": {
+      "hash": "93d8d4d19d5b2dbcc431c6d97fcfa799",
+      "token": "Dh8fdfO4uoBYyix4UuMcKOMInkH"
+    },
+    "hua-yu-hua/methods/货架思维-产品信息出现的一切场合都是你的战场.md": {
+      "hash": "e699797bb3b32a3dd8677484732d799b",
+      "token": "TuKPdSIvvozI4QxTgX3crpUCngd"
+    },
+    "hua-yu-hua/methods/购买理由-产品-包装与营销的精髓.md": {
+      "hash": "a539d8855d44d5538ecf406cf3504523",
+      "token": "Pl2OdYXfkoC6SbxtMoXcaNOvnTd"
+    },
+    "hua-yu-hua/methods/购买理由-产品畅销的根本驱动力.md": {
+      "hash": "fa6597943b47155c30f1e4e6a1d82cb4",
+      "token": "UMASdlF7HoqRL9x9BmXcjcXRneh"
+    },
+    "hua-yu-hua/methods/购买理由公式-母体性超级词组+购买价值+超级句式+购买指令.md": {
+      "hash": "b65f131d6bb6ddf9921e901a408fd78e",
+      "token": "C0u2dvlUBoLKK2xySKhc8ZetnPf"
+    },
+    "hua-yu-hua/methods/超级流量论-五力再平衡与企业战略的哲学洞察.md": {
+      "hash": "0270d3a754bbe8a820028f776c93111f",
+      "token": "UPrHd0hWhomkezx76BxcOGH7nld"
+    },
+    "hua-yu-hua/methods/超级符号与企业VI的本质区别.md": {
+      "hash": "8c4137570bf8540d60936d1c38522912",
+      "token": "U52fdzrJCodlZvxLUCrczJsrn8g"
+    },
+    "hua-yu-hua/methods/超级符号与生活-符号与意义是人类世界的基础结构.md": {
+      "hash": "dce27915e5c068b3aa0a8c21ee639252",
+      "token": "Z0PWdRTmnoeoVsxpYpwcbXlHnzd"
+    },
+    "hua-yu-hua/methods/超级符号的创作标准-一目了然-召唤指令-降低成本.md": {
+      "hash": "33efa63c3b9e1c639a1b5fee1e93243e",
+      "token": "DviWdmLVsot1agx5EBrc6fgQn0d"
+    },
+    "hua-yu-hua/methods/足力健张京康分享-用华与华方法正心术-立正学-走正道.md": {
+      "hash": "873be44a927bb9a965ff9d0ececea3c1",
+      "token": "P8yBdxUhaoDTaUxcijLcgDiAnzc"
+    },
+    "hua-yu-hua/methods/迈向百亿咨询集团-华与华的经营哲学与战略目标.md": {
+      "hash": "c1fe3db0e249211135c83beb1bcce3f6",
+      "token": "Jnx7ddDmIobYGaxHcPOcx0h4n9b"
+    },
+    "hua-yu-hua/methods/陈刚教授-华与华方法是有思想-有份量的中国企业研究.md": {
+      "hash": "c766e36910b1799bd7ddffbcabe47799",
+      "token": "LdFbdXUcAoBo21xa8lScF7GYnpc"
+    },
+    "hua-yu-hua/models/华与华方法模型图-AI可读版.md": {
+      "hash": "b25ee2b64a28ac16667357f177e2dd21",
+      "token": "SiJJdQGSgoc42xxHjDgcDL1Sn4e"
+    },
+    "hua-yu-hua/speeches/中国市场成长的故事-华与华企业战略方法论.md": {
+      "hash": "6b7493aa1a9b1f16f8ad96f32704418f",
+      "token": "Mnf9d42zhotn4vxwd9GcYBponvh"
+    },
+    "hua-yu-hua/speeches/习惯共同体-企业文化就是万众一习.md": {
+      "hash": "22087a6cd9c5d8c0a75546668c414dd9",
+      "token": "OnkXdkZVeo2tHEx11MHcfmDwn8G"
+    },
+    "hua-yu-hua/speeches/什么是品牌-品牌建设的意义与核心.md": {
+      "hash": "1a8e2a4a565dd42f4c2650dbf16137c2",
+      "token": "LGsUdAtdgoiN4pxrQEEc9pGonPg"
+    },
+    "hua-yu-hua/speeches/从“四书”到王阳明-儒家思想精髓的现代启示.md": {
+      "hash": "3dd05f0dc90a428482bee8920802ff68",
+      "token": "PewsdtsP9oEhdBxOpyvcAcKrnAg"
+    },
+    "hua-yu-hua/speeches/从四书到王阳明-儒家思想的核心框架与修身实践.md": {
+      "hash": "611b1a31d989845986a817a914192812",
+      "token": "Q9vQdkwsqoYVsoxahj2cHNBanBq"
+    },
+    "hua-yu-hua/speeches/企业三大定律-科斯-德鲁克-熊彼特的经营法则.md": {
+      "hash": "763d78da1198dafd433658cb387fd04b",
+      "token": "PoxndQ4MYokFyaxAiF5cotIHn8g"
+    },
+    "hua-yu-hua/speeches/企业家的四个领导力.md": {
+      "hash": "6851d8d235a610c401530cc0285bc14d",
+      "token": "H0Lpd8bw7oga3HxoIvtciEUKn0f"
+    },
+    "hua-yu-hua/speeches/企业的原理和品牌的原理.md": {
+      "hash": "94a310460da3534bc76082aefa2927d4",
+      "token": "SENHdPfloou08lxwLS2cOkEFnFd"
+    },
+    "hua-yu-hua/speeches/六大本质 不败兵法.md": {
+      "hash": "93c61d53187da15d0ae22bbb110edb8b",
+      "token": "AkPQdeTUDoa0fHxDrjlcMhA8nEb"
+    },
+    "hua-yu-hua/speeches/华与华世界观-使命-愿景-价值观与四大世界观.md": {
+      "hash": "0e9afffcd8308729a6eeb38a68c2a386",
+      "token": "GfEMdTqyxoZdM0xB2fDcMtMUnBf"
+    },
+    "hua-yu-hua/speeches/华与华习惯共同体-从格物致知到企业文化.md": {
+      "hash": "9f7db8df88bf724cc7467f342e7e9500",
+      "token": "WeFgdcn2xoQVV8xZiBycxTounX8"
+    },
+    "hua-yu-hua/speeches/华与华价值观和生产方法.md": {
+      "hash": "8616ae6b254a22e14d84206fa33ef037",
+      "token": "CHgBd93a1o4XQsxsWNfcmKUlnGe"
+    },
+    "hua-yu-hua/speeches/华与华品牌五年计划-从超级符号到品牌积德.md": {
+      "hash": "6427e1ba48e534beb70966371e697a3e",
+      "token": "AU11df1Gaol6oTx6SDnczC0rngh"
+    },
+    "hua-yu-hua/speeches/华与华品牌修辞学-匡迪保温杯品牌战略演讲实录.md": {
+      "hash": "680b15ec70ebcd4d431446c516b60d33",
+      "token": "HpsVdMKaHo7s9nxk5pGc5YNxnze"
+    },
+    "hua-yu-hua/speeches/华与华商学院《高效提案力》课程学员课后笔记.md": {
+      "hash": "e9afafe9b131ecd11686be61e39dc8c4",
+      "token": "EVG9d5pWmoYUErxPDHkcnvcSnqb"
+    },
+    "hua-yu-hua/speeches/华与华方法-重新发明广告业.md": {
+      "hash": "4b59de6865de99c3dd230cccf7297d3c",
+      "token": "KZ7ZdpYnMo5F4QxiXHKcN8NTnSf"
+    },
+    "hua-yu-hua/speeches/华与华方法与案例史-华杉2025年度演讲实录.md": {
+      "hash": "2488fc327213c2f8b037f5109cbd4609",
+      "token": "EQL8dcgAkokV4FxmrnNcXwwHnEh"
+    },
+    "hua-yu-hua/speeches/华与华方法的文化母体与企业战略-在日本中部医疗品质管理研究会的演讲.md": {
+      "hash": "4da1125479103c177104f94ff09af521",
+      "token": "OKsOdIQtzovxCZxhuxVcdXL6nFg"
+    },
+    "hua-yu-hua/speeches/华与华方法论-企业战略-产品-品牌与创意的本质.md": {
+      "hash": "cd4be22614ad3adc057d36ca24739312",
+      "token": "FVALdQ5jqokdujxOSYKcu1henVb"
+    },
+    "hua-yu-hua/speeches/华与华王道2029-以天下之至诚-实现寡头垄断.md": {
+      "hash": "51de07525307e2fb0d31eb2bb7977fe7",
+      "token": "UjcSdwxQno3xrWxulircI08lnxe"
+    },
+    "hua-yu-hua/speeches/华与华的事业理论和经营逻辑.md": {
+      "hash": "fc603cfbfa97c4e1291451ebae39437b",
+      "token": "BsW6dBpPMorp5hx7CeZcpub3nph"
+    },
+    "hua-yu-hua/speeches/华与华的价值观-不明知有害而为之.md": {
+      "hash": "8b315a35cc111b4e4e19527572658844",
+      "token": "EN2idoD2ZoRnNTxVqMpcRurznGb"
+    },
+    "hua-yu-hua/speeches/华与华经营哲学-企业三大定律与积累的王道.md": {
+      "hash": "ec65dee92f586551ba31e972b7afade3",
+      "token": "RYXld2ldro1DgIxSiBbce7H4nxg"
+    },
+    "hua-yu-hua/speeches/华杉-理论 - 2024年N多寿司知胜大会演讲.md": {
+      "hash": "590317801a2f172e57bc2d7786d7da82",
+      "token": "XVSMdNOS2o37ZVxaw7ncYPlhn1f"
+    },
+    "hua-yu-hua/speeches/华杉2017年会演讲-迈向百亿咨询集团.md": {
+      "hash": "a6b6964759d203487d6b45649346f2ed",
+      "token": "QabGdW2IdowRlAx0MN2ctS70nfc"
+    },
+    "hua-yu-hua/speeches/华杉2024年N多寿司知胜大会演讲-企业的根本原理与营销理论.md": {
+      "hash": "8fad6ee0edefb694af00b72e3710e0a5",
+      "token": "MjhMdd3nzoSwTmxyUnxc5OSGnTc"
+    },
+    "hua-yu-hua/speeches/华杉UCL伦敦大学学院演讲实录-重新发明广告业.md": {
+      "hash": "25ace52be6db448188451a7c2cf2c62f",
+      "token": "ZIrOdbklNoVqovxBlUHcqz3ynDd"
+    },
+    "hua-yu-hua/speeches/华杉新加坡演讲-如何在中国市场建立品牌.md": {
+      "hash": "e0a3ee3e56abc02e874a1c778f735b70",
+      "token": "PhPld4WIbox2wgx8t3qcTJXbn7f"
+    },
+    "hua-yu-hua/speeches/华杉的写作生活-日日不断-滴水穿石.md": {
+      "hash": "5992a9822c3cb3f0e22c151ddbcb820b",
+      "token": "XEp4d7odcopNZYxdowSces0AnMg"
+    },
+    "hua-yu-hua/speeches/华杉讲透营销和品牌入门理论.md": {
+      "hash": "2638f85ff20f17c1a8cbc7614dfe9172",
+      "token": "XfBZd3VHooO66AxDoivcCltOntg"
+    },
+    "hua-yu-hua/speeches/品牌思想的底层逻辑-超级符号原理.md": {
+      "hash": "fdec7149e8b1eeecfc5b58fecb01ae7c",
+      "token": "Wu0wdDtKLowIlixzNYjckZzBnUe"
+    },
+    "hua-yu-hua/speeches/坚持就是运气-个人及公司成长的四大基本原理.md": {
+      "hash": "310647fac2bf059bd68622ab8803a68e",
+      "token": "LH2WdjVwpoZAk4xhLg0c4BcpnFY"
+    },
+    "hua-yu-hua/speeches/城市品牌营销的六条经验——哈尔滨城市品牌创意峰会演讲实录.md": {
+      "hash": "4364c907b26c82a958b14e23f06908ed",
+      "token": "Lx59dnqw6obGSbxFitNc10J8nJg"
+    },
+    "hua-yu-hua/speeches/定心的哲学-华杉泸溪河品牌战略发布会演讲.md": {
+      "hash": "9bcf3c841266edfc32fdf763eaeb3248",
+      "token": "FAXNdkDAeoBtdWxds6JcyFS3nMg"
+    },
+    "hua-yu-hua/speeches/对客户的事业绝对忠诚-华与华儒商思想.md": {
+      "hash": "a5ac716af2dc3c8bd7e5ee55131cdf13",
+      "token": "TNLwdmxKUoUTv9xucGXcrEo3ngf"
+    },
+    "hua-yu-hua/speeches/我们的事业是什么-华与华2022年会演讲.md": {
+      "hash": "5e244b0f2f9cc420be69b019a59b52de",
+      "token": "GfrLdXValoyf3GxwqFVcxNf9nRY"
+    },
+    "hua-yu-hua/speeches/我的写作生活-日日不断-滴水穿石.md": {
+      "hash": "7b4f2e323fc4597489b32bc1ef6f004a",
+      "token": "A4gcdIq5JoGHWCxMdIPceJjGnRh"
+    },
+    "hua-yu-hua/speeches/我选择了一条最慢的道路-华与华2026年会演讲.md": {
+      "hash": "c2107b63f653a03a3f358009a6c5a053",
+      "token": "S8BVdu4Gdo4EOtx4lGdcRakGndh"
+    },
+    "hua-yu-hua/speeches/投广告就是交品牌税.md": {
+      "hash": "265ff513f08fc43538036f0a38adc75d",
+      "token": "CpwQdB7JWotMXrxbWAEcQzRqnYc"
+    },
+    "hua-yu-hua/speeches/持续理解创意流水线.md": {
+      "hash": "25b1057eea6d048ec62dcb6e396756da",
+      "token": "JojodC1UooeQ5LxT540ctDU7nHg"
+    },
+    "hua-yu-hua/speeches/文化母体·超级符号与全球品牌 - 华与华方法论五大理论.md": {
+      "hash": "bbccebe4ca82fc1c28a06da39bb07298",
+      "token": "VulAd3kBEo3rfuxbKG9cADjvnHN"
+    },
+    "hua-yu-hua/speeches/清洗词语——重新认识竞争.md": {
+      "hash": "de0ff895cb9652a7ce4d2c65a879c230",
+      "token": "I7NwdI5zeoTijrxbm74cW8rYn8d"
+    },
+    "hua-yu-hua/speeches/终身事业-终身顾客——华与华2019年会演讲.md": {
+      "hash": "a90f8b60ca513f03684f06e3d4de2489",
+      "token": "M55tdngewoeIV5xiUnjcS8PDnrg"
+    },
+    "hua-yu-hua/speeches/营销传播的哲学问题.md": {
+      "hash": "0911ae1bdd4858bc0ec46d823e58cd71",
+      "token": "VntJdk8RzouRi2xvSWtc8Q3Mnre"
+    },
+    "hua-yu-hua/speeches/行为主义与行动导向-华与华2023年度演讲.md": {
+      "hash": "4d02465687ec384cd92d2152b52828ef",
+      "token": "E7BZd8czvodS1hx3ZhAceozinmd"
+    },
+    "hua-yu-hua/speeches/订单制咨询不成立-华与华是订阅制.md": {
+      "hash": "3df4be221befdf2dde1a56faec9fc3b1",
+      "token": "Kfm4dr7wXo5NYBxvTXBcguyMnid"
+    },
+    "hua-yu-hua/speeches/超级流量论-五力再平衡与流量主权开发.md": {
+      "hash": "b62bef8a134a9f183f97fadcdbfca7d5",
+      "token": "JcuAduV1foj4RLxihH0c7Xt1nYf"
+    },
+    "hua-yu-hua/speeches/超级符号与城市品牌哲学-道真城市品牌战略演讲.md": {
+      "hash": "8ff5f5c7ee1ec970abeb2248a7a87213",
+      "token": "OEijdCAyzo5Y4Qx4koJcQkmznrc"
+    },
+    "hua-yu-hua/speeches/超级符号与生活-符号与意义的结构是人类世界的基础结构.md": {
+      "hash": "95e1117f3386cb7019be9567cab6f9c9",
+      "token": "ERDNdjriwoQ7dgxeAu1cxPhln9b"
+    },
+    "hua-yu-hua/speeches/超级符号品牌原理-华与华品牌思想的底层逻辑.md": {
+      "hash": "d76feb6098f8880382be7b54efe8af4f",
+      "token": "VE8Od4Ou2osH6CxhqjHcIzv5nTh"
+    },
+    "hua-yu-hua/speeches/超长期主义-华与华22年十大战略伏笔.md": {
+      "hash": "965679a1991e4d191032b41f1aca9808",
+      "token": "HH7udNzbLoZN6yxzM83clkzxnTc"
+    },
+    "hua-yu-hua/speeches/迈向百亿咨询集团-华与华2036年的扎实之路.md": {
+      "hash": "15a9dbe3597e0f9ef9ebd84f4d8a384d",
+      "token": "JO7DdCc95o6RijxfRljcHmVGnIe"
+    },
+    "hua-yu-hua/speeches/高效提案力-华与华商学院学员课后笔记.md": {
+      "hash": "69994e4ed37ce8d98ab3e4c75f626e29",
+      "token": "HZ58dSX2VovMmQxrgOocwf2WnIh"
+    },
+    "industries/real-estate.md": {
+      "hash": "a644811221a6207de7a0b6ff8080bc9a",
+      "token": "C5n7djwCbouxjVx6h7XcjgtNncf"
+    },
+    "methodology/2021-勇气第一.md": {
+      "hash": "3895bd2af05e2735bcb7118f552da73f",
+      "token": "O3NBdQu5uoijy5xgPokcCxvCnch"
+    },
+    "methodology/2024-带着问题前进.md": {
+      "hash": "fc8493598d3ef25b416cfd58c102e283",
+      "token": "Aw4BdcBC9oqrgJx1YqAc7oA6nvc"
+    },
+    "methodology/2025-一起活在真实里-智讯15周年内部信中的方法论.md": {
+      "hash": "f4e94d6c87c9cf89c67625c782a37796",
+      "token": "Ui7BdLJENoA2ACxKqEbcH8eCnUb"
+    },
+    "methodology/anti-fragmentation.md": {
+      "hash": "1ab8f7024e18d1d7f5f09592341bcebd",
+      "token": "OvYbdLkuNoMTUAxZ5MIc9IfYn6F"
+    },
+    "methodology/city-branding.md": {
+      "hash": "45320d637516c18182dc51d3e285a09e",
+      "token": "I7wBdJOzvousFexXyihco5G0n7b"
+    },
+    "methodology/三四线城市商业地产开发的基本思路.md": {
+      "hash": "d928b382d9d55443f648d0e247185f91",
+      "token": "DW88dT05bogaNkxNgvtcfqXUnlg"
+    },
+    "methodology/个人IP.md": {
+      "hash": "9b003210b4511430c0c0161e3fd0e459",
+      "token": "RFA7dFaHrogPfGx2C8IcANG1ntc"
+    },
+    "methodology/企业社会价值论.md": {
+      "hash": "1843d40765a0eaf3701a59e7c2b86103",
+      "token": "VY1cd0OsOoEQFZxrNAlco8DUnmg"
+    },
+    "methodology/全面媒体化.md": {
+      "hash": "feffb871bceaadd6efa262bbc598d380",
+      "token": "Z8sHdBmgGondXgxQpj5cEgGFnJc"
+    },
+    "methodology/华与华方法.md": {
+      "hash": "58a36bfaea68e8d3081c551b53566084",
+      "token": "IVfHdEsGcoEvjRxrRnYchRgxnkd"
+    },
+    "methodology/反碎片品牌方法论.md": {
+      "hash": "3f91ea3fcc90720bd97a3011c6c5ed56",
+      "token": "CKPBdiy75oLx8qxHwWVcveQjnig"
+    },
+    "methodology/反碎片生存-不确定时代的品牌方法论.md": {
+      "hash": "634c6d06e72a78eef145079a5b9c95c4",
+      "token": "U38KdzLY3oJIGRx8qLucT9d3nxh"
+    },
+    "methodology/品牌资产论.md": {
+      "hash": "97fe0b10d635bc82facc1a9d220ec7c6",
+      "token": "JSKKd3kGwow5fnx9fkZcFjmVn2g"
+    },
+    "methodology/在十字路口创造意义-从经营现场寻找品牌答案.md": {
+      "hash": "0f0ed71b876e1ade30dfa98b55cfe031",
+      "token": "Hgd3dF23boGOsUxpjI1cnZbrnfD"
+    },
+    "methodology/城市公关的情感战-如何做到千城千面.md": {
+      "hash": "308b2bd9d05ccc1cd82b5df864d45924",
+      "token": "UoJWd0gOwoteepxpZUjcTb7Mnvf"
+    },
+    "methodology/城市品牌资产与反碎片营销策略.md": {
+      "hash": "9b3c0a030efb5593eda6ad8294f863b4",
+      "token": "HtvRdCgzZoYzkOxCO6JcjA3xnXb"
+    },
+    "methodology/当AI给出一切答案-人的价值就是提出问题.md": {
+      "hash": "def633c63b6e2a261068d34967ec6e7d",
+      "token": "RoaNdIoQGo2KDKxIN6JctnZ5nmb"
+    },
+    "methodology/情感营销.md": {
+      "hash": "8872411fa42ca8b1c2a547d5ae06dbb5",
+      "token": "Sn9XdH5Jtor7Yxx6RSncM2VGnde"
+    },
+    "methodology/所有的事都是一件事.md": {
+      "hash": "787966b1f5976197eb10afa8fea254b0",
+      "token": "STBBd6tBToU5Pnxe2hhcDadGn9d"
+    },
+    "methodology/打碎自己再创业-智讯互动2015年组织变革与产品思维转型.md": {
+      "hash": "63ade2113f9987479e6f0d996ccd4055",
+      "token": "RYfvdOuPzolirwxHclNctdrnnWd"
+    },
+    "methodology/文化原型理论.md": {
+      "hash": "fa34a028ad6b48d6d281ba540b4c848b",
+      "token": "LGJYdoqWfoIqPwxi85Vc6TvynSe"
+    },
+    "methodology/文案的马步.md": {
+      "hash": "83854ae211ba45177cad7041894cec62",
+      "token": "Bqhudrjc8oCvXXxjvU0cMPAsnaf"
+    },
+    "methodology/智讯上海成立-大数据×品牌社群驱动新一代营销.md": {
+      "hash": "0af84264dbed41fb4e0d2301eabb821d",
+      "token": "FxMadDdlTomEAnx3TDdc8gDLnRh"
+    },
+    "methodology/热爱是创意的春药.md": {
+      "hash": "52485db981297ac47d85278481d3087f",
+      "token": "PUjad2tGCoqplpxpM4McbwORnJv"
+    },
+    "methodology/用创造对抗熵增-智讯十年的底层逻辑.md": {
+      "hash": "4a512dc5f63b352f47e1613a89dc375a",
+      "token": "OdGjdnNKzoKWOZxHw3ncXbPVnaf"
+    },
+    "methodology/社交媒体营销常见错误-12位创始人总结.md": {
+      "hash": "9ce03e4802642f11c5092d33166910bf",
+      "token": "SNo1d1jmToa3dqxEefRcHAZznUe"
+    },
+    "methodology/社交媒体营销策略.md": {
+      "hash": "e240dbf08b0000fdc83c35b47e9a2898",
+      "token": "RqP5d5Oz1o5KFXxGxHQcVdQoncc"
+    },
+    "methodology/货架思维.md": {
+      "hash": "91933f1ea96c83a2f72086f661172116",
+      "token": "TrVIdphnjoWHI3xWDd7cfgFAnVi"
+    },
+    "methodology/超级口号理论.md": {
+      "hash": "da5f382ea705fdcbc62bce698fba3700",
+      "token": "VzaCdMdAdoTvA0xmEjBcvrkfntg"
+    },
+    "methodology/超级符号理论.md": {
+      "hash": "dee08589ff72c3cd104fc302bf3b662b",
+      "token": "NbPidg48koeM1OxrrFYcaaPKnRd"
+    },
+    "methodology/速朽时代的反脆弱方法论.md": {
+      "hash": "28a74347fd7d2f851311025a527ed1fe",
+      "token": "IDZPdxN6oo1d5ZxDn4xcxFsJnie"
+    }
+  },
+  "last_sync": "2026-04-28T22:45:15.458877"
 }
