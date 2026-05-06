@@ -9,6 +9,16 @@ git clone https://github.com/csmyzi1985/wit-wiki.git
 cd wit-wiki
 ```
 
+或一键安装：
+
+```bash
+git clone https://github.com/csmyzi1985/wit-wiki.git
+cd wit-wiki
+./install.sh
+```
+
+`install.sh` 自动检测本机 AI Agent 平台，将 Skill 和知识库部署到对应目录。
+
 支持 Claude Code、Codex、Hermes Agent 等任何支持 `AGENTS.md` 的 AI 编程工具 — 进入目录后自动加载知识库上下文。
 
 ### 在 Hermes 中使用
