@@ -16,7 +16,7 @@ compile_hua_yu_hua_log.md
 compile_hua_yu_hua_state.json
 compilation-prompt-hua-yu-hua.md
 extract_hua_yu_hua.py
-log.md
+/log.md
 audit_wiki.py
 sync_to_feishu.py
 synthesis/sync_state.json
