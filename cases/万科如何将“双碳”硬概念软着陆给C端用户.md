@@ -3,7 +3,8 @@ type: case
 title: "万科如何将“双碳”硬概念软着陆给C端用户"
 date: 2021
 industry: 房地产
-client: "佛山万科"
+client: "万科"
+parent: "佛山万科"
 methodology: [全面媒体化, 品牌资产论]
 keywords: [绿色住区, 后疫情时代, 双碳, 品牌年轻化, 软传播]
 decision_logic: "面对需要同时向政府（G端）和消费者（C端）沟通的专业硬概念，选择用创意内容和互动体验进行“软包装”，而非直接说教。"

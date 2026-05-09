@@ -46,5 +46,5 @@ source_origin: wit
 
 ## 交叉引用
 
-- 核心方法论：[[anti-fragmentation]]
+- 核心方法论：[[反碎片品牌方法论]]
 - 相关行业：industries/fmcg（快消，品牌打法对比）

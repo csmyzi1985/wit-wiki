@@ -1,6 +1,8 @@
 # 原始资料（只读，不入库）
-raw-articles/
-raw-hua-yu-hua/
+archive/
+
+# 客户画像（不上传）
+clients/
 
 # 编译脚本和日志
 batch_compile.py
@@ -11,15 +13,19 @@ batch_ingest.py
 batch_ingest.sh
 batch_log.md
 batch_state.json
+compilation-prompt-hua-yu-hua.md
 compile_hua_yu_hua.py
 compile_hua_yu_hua_log.md
 compile_hua_yu_hua_state.json
-compilation-prompt-hua-yu-hua.md
 extract_hua_yu_hua.py
 /log.md
+/log*.md
 audit_wiki.py
 sync_to_feishu.py
 synthesis/sync_state.json
+
+# 临时文档
+case_selection_plan.md
 
 # 系统文件
 .DS_Store

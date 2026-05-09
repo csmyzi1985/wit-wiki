@@ -26,7 +26,7 @@
 ## 边界
 
 - **包含**：华与华方法的核心概念综合、交叉引用
-- **不包含**：逐篇原文（留在 methods/ 和 speeches/ 中，概念页只综合不替代）
+- **不包含**：逐篇原文（已迁至 `raw-articles/hua-yu-hua/methods/` 和 `raw-articles/hua-yu-hua/speeches/`，概念页只综合不替代）
 - **不包含**：智讯自有方法论（在主 wiki methodology/ 中）
 
 ## 成功度量

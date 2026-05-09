@@ -9,24 +9,25 @@
 
 ```
 wit-wiki/
-├── raw-articles/          # 原始资料层（只读，已编译）
-│   └── [2582个原始文件]
-├── cases/                 # Wiki层：智讯案例（150个）
-├── methodology/           # Wiki层：智讯方法论（19篇）
-├── industries/            # Wiki层：行业洞察
-├── hua-yu-hua/            # Wiki层：华与华外脑（内部学习）
-├── competitors/           # Wiki层：竞品外脑（内部学习）
-├── clients/               # Wiki层：客户画像
+├── cases/                 # Wiki层：智讯案例（65个精选）
+├── archive/               # 已归档案例（85个，已从主库移除）
+├── methodology/           # Wiki层：智讯方法论（31篇）
+├── industries/            # Wiki层：行业洞察（建设中）
+├── hua-yu-hua/            # Wiki层：华与华概念（16个核心概念 + 1个模型概览）
+├── competitors/           # Wiki层：竞品外脑（20个文件，⚪ 仅供内部学习）
+│   ├── concepts/          #   捷群故事线概念库（11个）
+│   ├── entities/          #   竞品服务实体（3个）
+│   └── comparisons/       #   方法论对比
+├── clients/               # 客户画像（34个，本地，不上传）
 ├── synthesis/             # Wiki层：综合分析
 ├── index.md               # 主索引
 └── AGENTS.md              # 本文件（Schema层）
 ```
 
-### 三层架构说明
+### 双层架构说明
 
 | 层级 | 目录 | 说明 |
 |------|------|------|
-| **原始资料层** | `raw-articles/` | 已编译完成，LLM 只读不修改 |
 | **Wiki层** | `cases/` `methodology/` 等 | LLM 可读写，持续维护 |
 | **Schema层** | `AGENTS.md` `SCHEMA.md` | 操作规范，LLM 必须遵循 |
 
@@ -93,9 +94,9 @@ wit-wiki/
 3. 使用精确的文件名作为链接目标
 
 **华与华概念引用**：
-- WIT 案例可以引用华与华概念（如 `[[超级符号理论]]`）
-- 华与华概念页面在 `methodology/` 目录下有别名页
-- 引用时使用别名页的文件名
+- WIT 案例可以引用华与华概念（如 `[[超级符号原理]]`）
+- 华与华概念页面在 `hua-yu-hua/concepts/` 目录下
+- 源文件引用使用 `../../raw-articles/hua-yu-hua/methods/源文件名.md`
 
    - 使用 `[[页面名]]` 格式链接相关页面
    - 案例页面链接到相关方法论
@@ -287,6 +288,7 @@ ls methodology/*.md | wc -l
 
 | 日期 | 变更 | 作者 |
 |------|------|------|
+| 2026-05-09 | 重构 hua-yu-hua 结构：methods/ + speeches/ 迁至 raw-articles/hua-yu-hua/，仅保留 concepts/ + models/ 在 Wiki 层；同步更新 17 处交叉引用；更新 AGENTS.md 目录结构 | WorkBuddy |
 | 2026-04-28 | 创建 AGENTS.md | WorkBuddy |
 
 ---

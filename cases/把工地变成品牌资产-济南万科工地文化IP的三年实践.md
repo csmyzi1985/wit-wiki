@@ -3,7 +3,8 @@ type: case
 title: "把工地变成[品牌资产论]：济南万科工地文化IP的三年实践"
 date: 2016
 industry: 房地产
-client: "济南万科"
+client: "万科"
+parent: "济南万科"
 methodology: [反碎片, 全面媒体化, 品牌资产论, [超级符号理论]理论]
 keywords: [工地IP, 品牌资产, 工程质量, 全面媒体化, 长期主义]
 decision_logic: "将房企最大的自媒体——工地，从成本中心转化为品牌资产，通过IP化运营实现长期价值沉淀。"

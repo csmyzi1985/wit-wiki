@@ -1,6 +1,6 @@
 # 华与华方法 Wiki Schema
 
-> 基于 Karpathy LLM Wiki 方法论，从 hua-yu-hua/methods/ 和 hua-yu-hua/speeches/ 的源文件编译而来。
+> 基于 Karpathy LLM Wiki 方法论，从 `raw-articles/hua-yu-hua/methods/` 和 `raw-articles/hua-yu-hua/speeches/` 的源文件编译而来。
 
 ## 域（Domain）
 
@@ -77,7 +77,7 @@ confidence: high | medium | low
 | 目标 | 链接路径 |
 |------|---------|
 | hua-yu-hua 概念 | `概念名` |
-| hua-yu-hua 源文件 | `[源文件名](../methods/源文件.md)` |
+| hua-yu-hua 源文件 | `[源文件名](../../raw-articles/hua-yu-hua/methods/源文件.md)` |
 | wit-wiki 方法论（主 wiki） | `[链接](../../methodology/页面名.md)` |
 
 ## 更新策略

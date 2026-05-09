@@ -3,7 +3,8 @@ type: case
 title: "用城市文化原型“私有化”创新，西安万科如何打造“秦小万”IP"
 date: 2022
 industry: 房地产
-client: "西安万科"
+client: "万科"
+parent: "西安万科"
 methodology: [超级符号理论, 品牌资产论]
 keywords: [IP形象, 城市文化, 品牌资产, 私有化创新, 万科]
 decision_logic: "放弃凭空想象，选择基于城市公共符号（兵马俑）进行“私有化”创新，以降低认知成本并建立情感链接。"

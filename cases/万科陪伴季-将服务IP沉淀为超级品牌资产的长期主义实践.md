@@ -3,7 +3,8 @@ type: case
 title: "万科陪伴季：将服务IP沉淀为超级[品牌资产论]的长期主义实践"
 date: 2022
 industry: 房地产/物业服务
-client: "万科上海区域"
+client: "万科"
+parent: "万科（上海区域）"
 methodology: [个人IP], 社群运营, 跨界合作]
 keywords: [陪伴季, 甜蜜课堂, 服务IP, 品牌资产, 长期主义, 社群活动]
 source: "坚持_陪伴_的长期主义_将服务IP沉淀为超级品牌资产"
